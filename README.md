@@ -33,9 +33,3 @@ The latest update includes some nice new features, such as the gradient border a
 3. Install ``Live Preview`` extension.
 4. Right click **index.html** > ``Live Preview: Show Preview``.
 5. Open the ``localhost:3000`` address in your favorite browser.
-
-## ℹ Infos
-
-Made by Leonardo Costa 🙂
-
-Distributed under the MIT License. See ``LICENSE`` for more information.

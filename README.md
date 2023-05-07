@@ -24,7 +24,7 @@ The latest update includes some nice new features, such as the gradient border a
 
 ## ✅ ToDo
 
-- [X ] Refactor CSS (Maybe add SASS).
+- [X] Refactor CSS (Maybe add SASS).
 
 ## ⚙ Dev Setup (VS Code)
 
